@@ -1,2 +1,2 @@
 # one_piece_app
-Aplicativo de fã de One Piece em React Native
+Aplicativo de fã de One Piece feito em React Native
